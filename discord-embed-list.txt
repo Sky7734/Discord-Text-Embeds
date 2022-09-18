@@ -199,7 +199,6 @@
 .vba
 .vbs
 .vbscript
-.vdhl
 .vhdl
 .vim
 .wl
