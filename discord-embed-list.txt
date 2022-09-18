@@ -26,6 +26,7 @@
 .cpc
 .cpp
 .cr
+.cr.asc
 .cs
 .cshtml
 .cson
